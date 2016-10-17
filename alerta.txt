@@ -3,3 +3,4 @@ alertas
 -Alertas por email!!! 
 1-entorno de desarrollo issue #2
 2-alta de mails
+3-configuracion de smtp
