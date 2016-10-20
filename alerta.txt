@@ -8,3 +8,4 @@ alertas
 
 -Se agregan librerías de chart XYZ!
 -se configuro la seguridad para el chart
+-Cierro issue #3
