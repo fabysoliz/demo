@@ -11,3 +11,4 @@ alertas
 -Cierro issue #3
 -se finalizo el desarrollo del chart
 -agrego filtro por modulo y usuario responsable
+-validaciones de asimov
