@@ -10,3 +10,4 @@ alertas
 -se configuro la seguridad para el chart
 -Cierro issue #3
 -se finalizo el desarrollo del chart
+-agrego filtro por modulo y usuario responsable
