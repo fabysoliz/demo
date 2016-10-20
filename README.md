@@ -2,22 +2,22 @@
 
 #Sinopsis
 
-- Una visión general del proyecto que se rápida y fácil de leer.
+- Una visión general del proyecto que sea rápida y fácil de leer.
 - Mencionar las funcionalidades más relevantes de nuestro proyecto. 
-- Mencionar los proyectos con los que está relacionado 
+- Mencionar los proyectos con los que está relacionado. 
 - Acceso directos a documentación o paginas de uso frecuente.
-- Agregar cualquier otra información que ayude al entendimiento del proyecto (diagramas, código de ejemplo, documentación, etc)
+- Agregar cualquier otra información que ayude al entendimiento del proyecto (diagramas, código de ejemplo, doc´s, etc)
 
 #Estructura de Directorios
 
 - Explicar la estructura de directorios de nuestro repositorio. 
-- En el caso de que estemos utilizando un estándar, por ejemplo la estructura de directorio de un proyecto grails o la estructura general de un proyecto de meli, mencionar sólo las particularidades de nuestro proyecto.  
+- En el caso de que estemos utilizando un estándar, por ejemplo la estructura de directorio de un proyecto grails, mencionar sólo las particularidades de nuestro proyecto.  
 
 #Instalación 
 
 - Cómo se instala la app?
 - Qué soft, librerías y otros proyectos necesito?  
-- Cuales son las versiones?
+- Cuáles son las versiones?
 - Definir una guia paso a paso para instalar y trabajar en nuestro proyecto. 
 
 1. Install SDK Man: 
@@ -44,13 +44,14 @@
 #Ciclo de trabajo 
 
 - Cómo es nuestro ciclo de trabajo? 
-- Cúales son los estados que pueden tener nuestros issues? 
+- Cuáles son los estados que pueden tener nuestros issues? 
+
 *La forma de trabajo puede variar en cada equipo y/o proyecto.*
 
 #Changelog 
 
-- Listar las versiones de nuestra app con una pequeña descripción. 
-- Agregar un link por cada una de las versiones para poder obtener más info desde la wiki.
+Listar las versiones de nuestra app con una pequeña descripción. 
+Agregar un link por cada una de las versiones a nuestra wiki para obtener más detalles.
 
 - **0.1**: [módulo de alertas por errores de backend](www.google.com)
 - **0.2**: se agrega dashboard con estadísticas de alertas
