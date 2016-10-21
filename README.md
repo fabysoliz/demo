@@ -1,24 +1,24 @@
-*Antes de escribir el README debemos tener en cuenta que la documentación será leida por personas que no están en nuestro equipo o por* *persona nuevas que ingresarán a trabajar con nosotros.*
+*Antes de escribir el README debemos tener en cuenta que la documentación será leída por personas que no están en nuestro equipo o por persona que ingresarán a trabajar en la empresa.*
 
 #Sinopsis
 
 - Una visión general del proyecto que sea rápida y fácil de leer.
-- Mencionar las funcionalidades más relevantes de nuestro proyecto. 
+- Mencionar las funcionalidades más relevantes. 
 - Mencionar los proyectos con los que está relacionado. 
-- Acceso directos a documentación o paginas de uso frecuente.
+- Acceso directos a documentación o páginas de uso frecuente.
 - Agregar cualquier otra información que ayude al entendimiento del proyecto (diagramas, código de ejemplo, doc´s, etc)
 
 #Estructura de Directorios
 
-- Explicar la estructura de directorios de nuestro repositorio. 
-- En el caso de que estemos utilizando un estándar, por ejemplo la estructura de directorio de un proyecto grails, mencionar sólo las particularidades de nuestro proyecto.  
+- Explicar la estructura de directorios del repositorio. 
+- En el caso de que estemos utilizando un estándar, por ejemplo la estructura de directorio de un proyecto grails, mencionar sólo las particularidades del proyecto.  
 
 #Instalación 
 
 - Cómo se instala la app?
 - Qué soft, librerías y otros proyectos necesito?  
 - Cuáles son las versiones?
-- Definir una guia paso a paso para instalar y trabajar en nuestro proyecto. 
+- Definir una guia paso a paso para instalar el proyecto. 
 
 1. Install SDK Man: 
 	`http://sdkman.io/`
@@ -43,24 +43,26 @@
 
 #Ciclo de trabajo 
 
-- Cómo es nuestro ciclo de trabajo? 
-- Cuáles son los estados que pueden tener nuestros issues? 
+- Cómo es el ciclo de trabajo del equipo? 
+- Cuáles son los estados que pueden tener los issues ? 
 
 *La forma de trabajo puede variar en cada equipo y/o proyecto.*
 
-#Changelog 
+#[Changelog](https://github.com/fabysoliz/demo/wiki/Changelog) 
 
-Listar las versiones de nuestra app con una pequeña descripción. 
-Agregar un link por cada una de las versiones a nuestra wiki para obtener más detalles.
+Listar las versiones de la aplicación con una pequeña descripción (ordenarlas en forma descendente). 
+Agregar un link a la wiki para obtener más detalles sobre cada una de las versiones.
 
-- **0.1**: [módulo de alertas por errores de backend](www.google.com)
-- **0.2**: se agrega dashboard con estadísticas de alertas
-- **0.3**: xxxxxxxx
+- **0.2**  - Dashboard con estadísticas de alertas - 2016-12-10
+- **0.1**  - Módulo de alertas para errores de backend - 2016-11-20
+- **0.01**: .....
 
 
 #Colaboradores - Area/Sector
 
-- :boar: Armesto Patricio (**Responsable**)
+- :cow: Asimov Isaac (**Responsable**)
+- :boar: Armesto Patricio (Desarrollador)
 - :bear: Bertolo Alejandro (Desarrollador)
 - :rabbit: Solíz Fabián (Desarrollador)
+
 
